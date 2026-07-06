@@ -1,4 +1,5 @@
 # NLP Translation & Text Correction
+.
 
 A simple Natural Language Processing (NLP) application built with Streamlit for language translation and text correction.
 
